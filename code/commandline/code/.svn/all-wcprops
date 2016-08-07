@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/code/commandline/code
+END
+choices.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/code/commandline/code/choices.py
+END
+snmpdf_alter.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/code/commandline/code/snmpdf_alter.py
+END
+multiple_option_args.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/code/commandline/code/multiple_option_args.py
+END
+subprocess_dd.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/code/commandline/code/subprocess_dd.py
+END
+hello_config.ini
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/code/commandline/code/hello_config.ini
+END
+snmpdf_wrap.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/code/commandline/code/snmpdf_wrap.py
+END
+hello_config_optparse.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/code/commandline/code/hello_config_optparse.py
+END
+simple_callback.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/code/commandline/code/simple_callback.py
+END
+create_files.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/code/commandline/code/create_files.py
+END
+no_options.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/code/commandline/code/no_options.py
+END
+hello_world_optparse.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/code/commandline/code/hello_world_optparse.py
+END
+verbosity_levels_count.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/code/commandline/code/verbosity_levels_count.py
+END
+true_false.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/code/commandline/code/true_false.py
+END

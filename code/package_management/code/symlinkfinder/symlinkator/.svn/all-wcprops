@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/code/package_management/code/symlinkfinder/symlinkator
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/code/package_management/code/symlinkfinder/symlinkator/__init__.py
+END
+symlinkator.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/code/package_management/code/symlinkfinder/symlinkator/symlinkator.py
+END

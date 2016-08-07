@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/code/text/code
+END
+re_loop_compile.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/code/text/code/re_loop_compile.py
+END
+test_apache_log_parser_regex.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/code/text/code/test_apache_log_parser_regex.py
+END
+sys_stdin_readline_enumerate.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/code/text/code/sys_stdin_readline_enumerate.py
+END
+test_apache_log_parser_split.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/code/text/code/test_apache_log_parser_split.py
+END
+apache_log_parser_regex.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/code/text/code/apache_log_parser_regex.py
+END
+apache_log_parser_split.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/code/text/code/apache_log_parser_split.py
+END
+apache_conf_docroot_replace.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/code/text/code/apache_conf_docroot_replace.py
+END
+elementtree_system_profile.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/code/text/code/elementtree_system_profile.py
+END
+system_profiler.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/code/text/code/system_profiler.xml
+END
+tomcat-users.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/code/text/code/tomcat-users.xml
+END
+elementtree_tomcat_users.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/code/text/code/elementtree_tomcat_users.py
+END
+sys_stdin_readline.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/code/text/code/sys_stdin_readline.py
+END
+quotes.pl
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/code/text/code/quotes.pl
+END
+re_loop_nocompile.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/code/text/code/re_loop_nocompile.py
+END

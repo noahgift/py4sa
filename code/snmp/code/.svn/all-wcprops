@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/code/snmp/code
+END
+discover.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/code/snmp/code/discover.py
+END
+new_router_config.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/code/snmp/code/new_router_config.py
+END
+snmpd.conf
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/code/snmp/code/snmpd.conf
+END
+snmp.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/code/snmp/code/snmp.pyc
+END
+processing_ping.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/code/snmp/code/processing_ping.py
+END
+snmp.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/code/snmp/code/snmp.py
+END
+hitcount.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/code/snmp/code/hitcount.py
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/code/processes/code/test/bin
+END
+python
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/code/processes/code/test/bin/python
+END
+python2.5
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/code/processes/code/test/bin/python2.5
+END
+easy_install
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/code/processes/code/test/bin/easy_install
+END
+easy_install-2.5
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/code/processes/code/test/bin/easy_install-2.5
+END
+liten
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/code/processes/code/test/bin/liten
+END
+activate
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/code/processes/code/test/bin/activate
+END

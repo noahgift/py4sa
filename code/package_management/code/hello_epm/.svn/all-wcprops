@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/code/package_management/code/hello_epm
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/code/package_management/code/hello_epm/COPYING
+END
+hello_epm.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/code/package_management/code/hello_epm/hello_epm.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/code/package_management/code/hello_epm/README
+END
+hello_epm.list
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/code/package_management/code/hello_epm/hello_epm.list
+END

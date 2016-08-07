@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/code/package_management/code
+END
+distutils_ex.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/code/package_management/code/distutils_ex.py
+END
+hello_epm.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/code/package_management/code/hello_epm.py
+END
+liten-bootstrap.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/code/package_management/code/liten-bootstrap.py
+END
+virtual_env_bootstrap.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/code/package_management/code/virtual_env_bootstrap.py
+END
